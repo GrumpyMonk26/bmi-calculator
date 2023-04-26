@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background: linear-gradient(to left bottom, lightgreen, lightblue);
+  background: linear-gradient(to left bottom, #2cbaa2, #2caeba);
   display: flex;
   min-height: 100vh;
   justify-content: center;
@@ -32,7 +32,7 @@ body {
 }
 
 .btn {
-  background-color: lightgreen;
+  background-color: #2caeba;
   border: none;
   padding: 10px 20px;
   border-radius: 5px;
@@ -49,5 +49,13 @@ body {
 
 .info-text {
   font-size: 20px;
+  font-weight: 500;
+  display: none;
+}
+
+.motivation-text {
+  padding: 0;
+  margin: 0;
+  font-size: 1.8rem;
   font-weight: 500;
 }
