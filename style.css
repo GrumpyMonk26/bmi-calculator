@@ -24,6 +24,12 @@ body {
   font-size: 30px;
 }
 
+.label-text {
+  padding: 0;
+  margin: 0 10px;
+  text-align: left;
+}
+
 .input {
   padding: 10px 20px;
   font-size: 18px;
