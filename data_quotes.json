@@ -1,0 +1,110 @@
+{
+  "obese_quotes": [
+    {
+      "id": 1,
+      "author": "Ralph Waldo Emerson",
+      "quote": "obese 0 What lies behind us and what lies before us are tiny matters compared to what lies within us."
+    },
+    {
+      "id": 2,
+      "author": "Eleanor Roosevelt",
+      "quote": "obese 1 Believe in yourself. You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face."
+    },
+    {
+      "id": 3,
+      "author": "Maya Angelou",
+      "quote": "obese 2 I can be changed by what happens to me. But I refuse to be reduced by it."
+    },
+    {
+      "id": 4,
+      "author": "Les Brown",
+      "quote": "obese 3 Your ability to communicate is an important tool in your pursuit of your goals, whether it is with your family, your co-workers or your clients and customers."
+    },
+    {
+      "id": 5,
+      "author": "Zig Ziglar",
+      "quote": "obese 4 You don't have to be great to start, but you have to start to be great."
+    }
+  ],
+  "overweight_quotes": [
+    {
+      "id": 1,
+      "author": "Napoleon Hill",
+      "quote": "overweight 0 Whatever the mind can conceive and believe, it can achieve."
+    },
+    {
+      "id": 2,
+      "author": "Albert Einstein",
+      "quote": "overweight 1 Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."
+    },
+    {
+      "id": 3,
+      "author": "Steve Jobs",
+      "quote": "overweight 2 Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."
+    },
+    {
+      "id": 4,
+      "author": "Vince Lombardi",
+      "quote": "overweight 3 The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will."
+    },
+    {
+      "id": 5,
+      "author": "Winston Churchill",
+      "quote": "overweight 4 Success is not final, failure is not fatal: it is the courage to continue that counts."
+    }
+  ],
+  "normalweight_quotes": [
+    {
+      "id": 1,
+      "author": "Jim Rohn",
+      "quote": "normal weight 0 Success is not to be pursued; it is to be attracted by the person you become."
+    },
+    {
+      "id": 2,
+      "author": "Oprah Winfrey",
+      "quote": "normal weight 1 The biggest adventure you can ever take is to live the life of your dreams."
+    },
+    {
+      "id": 3,
+      "author": "Tony Robbins",
+      "quote": "normal weight 2 The only limit to your impact is your imagination and commitment."
+    },
+    {
+      "id": 4,
+      "author": "Brian Tracy",
+      "quote": "normal weight 3 The greatest gift that you can give to others is the gift of unconditional love and acceptance."
+    },
+    {
+      "id": 5,
+      "author": "Henry Ford",
+      "quote": "normal weight4 Whether you think you can or think you can't, you're right."
+    }
+  ],
+  "underweight_quotes": [
+    {
+      "id": 1,
+      "author": "Jim Rohn",
+      "quote": "underweight 0 Success is not to be pursued; it is to be attracted by the person you become."
+    },
+    {
+      "id": 2,
+      "author": "Oprah Winfrey",
+      "quote": "underweight 1 The biggest adventure you can ever take is to live the life of your dreams."
+    },
+    {
+      "id": 3,
+      "author": "Tony Robbins",
+      "quote": "underweight 2 The only limit to your impact is your imagination and commitment."
+    },
+    {
+      "id": 4,
+      "author": "Brian Tracy",
+      "quote": "underweight 3 The greatest gift that you can give to others is the gift of unconditional love and acceptance."
+    },
+    {
+      "id": 5,
+      "author": "Henry Ford",
+      "quote": "underweight 4 Whether you think you can or think you can't, you're right."
+    }
+  ]
+}
